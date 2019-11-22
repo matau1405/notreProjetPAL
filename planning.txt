@@ -1,9 +1,9 @@
 
 planning de travail
 
-lundi
-mardi
-mercredi
-jeudi
-vendredi
-samedi & dimanche
+lundi = Cobol
+mardi = java
+mercredi = Hibernate
+jeudi = SQL
+vendredi = XML
+samedi & dimanche = PLS
